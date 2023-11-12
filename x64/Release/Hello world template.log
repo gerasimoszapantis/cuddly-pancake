@@ -1,0 +1,6 @@
+﻿  Hello world template.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Hello world template.vcxproj -> C:\Users\user1\source\repos\Hello world template\x64\Release\Hello world template.exe
